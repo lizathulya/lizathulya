@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm [Your Name]!
 
-![Profile Banner](path-to-banner-image) *(Optional)*
+![https://www.canva.com/design/DAGcRiXF8MI/Q3XdBV9SZPkVV5Fzl_XrQQ/view?utm_content=DAGcRiXF8MI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd800d3ade7) *(Optional)*
 
 ## 👩‍💻 About Me
 - 🌱 I’m currently learning [topic/technology].
