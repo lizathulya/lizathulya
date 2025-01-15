@@ -12,14 +12,36 @@
 - 📫 How to reach me: [Your email, LinkedIn, etc.].
 - ⚡ Fun fact: [Share something unique about yourself].
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=PowerBIColor=black&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
+\### **🛠️ Technologies & Tools**
 
-*(Add more tools and technologies relevant to your profile.)*
+#### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square) *(optional, if applicable)*  
+
+#### **Data Visualization**  
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat-square)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat-square)  
+
+#### **Data Tools & Technologies**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=black&style=flat-square)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange&style=flat-square)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)  
+![Azure](https://img.shields.io/badge/-Azure-0078D7?logo=microsoft-azure&logoColor=white&style=flat-square)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)  
+
+#### **Other Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  
+
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
