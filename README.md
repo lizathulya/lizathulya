@@ -1,8 +1,9 @@
-## Hi there 👋
 
-# Hi there 👋, I'm [Your Name]!
 
-![https://www.canva.com/design/DAGcRiXF8MI/Q3XdBV9SZPkVV5Fzl_XrQQ/view?utm_content=DAGcRiXF8MI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd800d3ade7) *(Optional)*
+# Hi there 👋, I'm Athulya!
+
+![Professional Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png)
+
 
 ## 👩‍💻 About Me
 - 🌱 I’m currently learning [topic/technology].
@@ -13,7 +14,7 @@
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=PowerBIColor=black&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
