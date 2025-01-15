@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Athulya!
 
-![Professional Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png)
+![Professional Banner](Athulya_Banner.png)
 
 
 ## 👩‍💻 About Me
