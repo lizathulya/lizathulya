@@ -6,11 +6,11 @@
 
 
 ## 👩‍💻 About Me
-- 🌱 I’m currently specializing Utiling AI agents in data.
-- 💼 I’m working on [current project or job role].
-- 🤔 I’m looking for help with [specific problem or technology].
-- 📫 How to reach me: [Your email, LinkedIn, etc.].
-- ⚡ Fun fact: [Share something unique about yourself].
+- 🌱 I’m currently specializing in Risk Assessment in LLMS.
+- 💼 I’m working on Risk Assessment and Imapct Analysis using AI.
+- 🤔 I’m looking for help with Biasing in AI.
+- 📫 How to reach me: a4lmathew@gmail.com.
+- ⚡ Fun fact: I love a physical copy over a digital version anyday.
 
 \### **🛠️ Technologies & Tools**
 
