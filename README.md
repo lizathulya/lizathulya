@@ -56,9 +56,9 @@
 
 
 ### 🌟 Fun Facts
-- 🖋️ I love writing blogs on [topic] at [your blog/website link.
-- 🌍 I enjoy [hobby or interest].
-- 🎯 My goal is to [your goal, e.g., "master data visualization"].
+- 🖋️ I love writing blogs on Data Analytics.
+- 🌍 I enjoy good thrillers.
+- 🎯 My goal is to be a Mater in Data.
 
 ---
 
