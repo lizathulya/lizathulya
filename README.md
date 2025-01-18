@@ -6,7 +6,7 @@
 
 
 ## 👩‍💻 About Me
-- 🌱 I’m currently learning [topic/technology].
+- 🌱 I’m currently specializing Utiling AI agents in data.
 - 💼 I’m working on [current project or job role].
 - 🤔 I’m looking for help with [specific problem or technology].
 - 📫 How to reach me: [Your email, LinkedIn, etc.].
