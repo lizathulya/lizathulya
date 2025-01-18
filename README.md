@@ -54,12 +54,9 @@
 - **[Project Name](https://github.com/yourusername/project-link):** A brief description of the project.
 - **[Another Project](https://github.com/yourusername/project-link):** Another brief description.
 
-*(Add more projects as needed.)*
-
----
 
 ### 🌟 Fun Facts
-- 🖋️ I love writing blogs on [topic] at [your blog/website link].
+- 🖋️ I love writing blogs on [topic] at [your blog/website link.
 - 🌍 I enjoy [hobby or interest].
 - 🎯 My goal is to [your goal, e.g., "master data visualization"].
 
