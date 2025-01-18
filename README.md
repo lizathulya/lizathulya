@@ -19,7 +19,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square) *(optional, if applicable)*  
 
 #### **Data Visualization**  
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)  
