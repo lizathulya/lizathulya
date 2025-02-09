@@ -44,9 +44,9 @@
 
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/athulya-mathew)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/lizathulya)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](a4lmathew@gmail.com)
 
 ---
 
@@ -58,7 +58,7 @@
 ### 🌟 Fun Facts
 - 🖋️ I love writing blogs on Data Analytics.
 - 🌍 I enjoy good thrillers.
-- 🎯 My goal is to be a Mater in Data.
+- 🎯 My goal is to be a Data Mastero
 
 ---
 
