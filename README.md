@@ -12,7 +12,7 @@
 - 📫 How to reach me: a4lmathew@gmail.com.
 - ⚡ Fun fact: I love a physical copy over a digital version anyday.
 
-\### **🛠️ Technologies & Tools**
+ **🛠️ Technologies & Tools**
 
 #### **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
