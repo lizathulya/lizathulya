@@ -50,9 +50,9 @@
 
 ---
 
-### ✨ Featured Projects
+'''### ✨ Featured Projects
 - **[Project Name](https://github.com/yourusername/project-link):** A brief description of the project.
-- **[Another Project](https://github.com/yourusername/project-link):** Another brief description.
+- **[Another Project](https://github.com/yourusername/project-link):** Another brief description.''''
 
 
 ### 🌟 Fun Facts
