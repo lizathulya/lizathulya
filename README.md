@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Athulya!
 
-![Professional Banner](Pink and Purple Gradient Technology Business LinkedIn Banner (1).png)
+![Professional Banner](Athulya_Profile.png)
 
 
 ## 👩‍💻 About Me
