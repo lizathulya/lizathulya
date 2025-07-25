@@ -2,15 +2,15 @@
 
 # Hi there 👋, I'm Athulya!
 
-![Professional Banner](Athulya_Banner.png)
+![Professional Banner](Pink and Purple Gradient Technology Business LinkedIn Banner (1).png)
 
 
 ## 👩‍💻 About Me
-- 🌱 I’m currently specializing in Biases in AI and its effects
+- 🌱 I’m currently specializing in Deepfakes and how it influences us.
 - 💼 I’m working on how biases influence AI.
-- 🤔 I’m looking for help with Biasing in AI.
+- 🤔 I’m looking for help with real time deepfake detection
 - 📫 How to reach me: a4lmathew@gmail.com.
-- ⚡ Fun fact: I love a day spent outdoors than indoors.
+- ⚡ Fun fact: I love a day well spent outdoors.
 
  **🛠️ Technologies & Tools**
 
