@@ -2,7 +2,8 @@
 
 # Hi there 👋, I'm Athulya!
 
-![Professional Banner](Athulya_Profile.png)
+![Professional Banner](<img width="1024" height="1024" alt="Gemini_Generated_Image_qxhdiwqxhdiwqxhd" src="https://github.com/user-attachments/assets/e02bef1a-1ddd-439f-bdf6-4755976aa293" />
+)
 
 
 ## 👩‍💻 About Me
