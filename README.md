@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Athulya!
 
-![Professional Banner](Athulya_Profile.png)
+![Professional Banner](Athulya_banner_poster.png)
 
 
 ## 👩‍💻 About Me
